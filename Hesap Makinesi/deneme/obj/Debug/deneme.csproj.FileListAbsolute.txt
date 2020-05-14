@@ -1,0 +1,12 @@
+C:\Users\DALYAN PC\Desktop\deneme\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\DALYAN PC\Desktop\deneme\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\DALYAN PC\Desktop\deneme\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\DALYAN PC\Desktop\deneme\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\deneme\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\DALYAN PC\Desktop\deneme\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\DALYAN PC\Desktop\deneme\c#odev\deneme\bin\Debug\deneme.exe.config
+C:\Users\DALYAN PC\Desktop\deneme\c#odev\deneme\obj\Debug\deneme.exe
+C:\Users\DALYAN PC\Desktop\deneme\c#odev\deneme\obj\Debug\deneme.pdb
+C:\Users\DALYAN PC\Desktop\deneme\c#odev\deneme\bin\Debug\deneme.exe
+C:\Users\DALYAN PC\Desktop\deneme\c#odev\deneme\bin\Debug\deneme.pdb
+C:\Users\DALYAN PC\Desktop\deneme\c#odev\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
