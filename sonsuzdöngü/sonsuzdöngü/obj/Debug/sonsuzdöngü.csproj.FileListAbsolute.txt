@@ -1,0 +1,6 @@
+C:\Users\DALYAN PC\Desktop\C# Console\sonsuzdöngü\sonsuzdöngü\bin\Debug\sonsuzdöngü.exe.config
+C:\Users\DALYAN PC\Desktop\C# Console\sonsuzdöngü\sonsuzdöngü\obj\Debug\sonsuzdöngü.csprojResolveAssemblyReference.cache
+C:\Users\DALYAN PC\Desktop\C# Console\sonsuzdöngü\sonsuzdöngü\bin\Debug\sonsuzdöngü.exe
+C:\Users\DALYAN PC\Desktop\C# Console\sonsuzdöngü\sonsuzdöngü\bin\Debug\sonsuzdöngü.pdb
+C:\Users\DALYAN PC\Desktop\C# Console\sonsuzdöngü\sonsuzdöngü\obj\Debug\sonsuzdöngü.exe
+C:\Users\DALYAN PC\Desktop\C# Console\sonsuzdöngü\sonsuzdöngü\obj\Debug\sonsuzdöngü.pdb
